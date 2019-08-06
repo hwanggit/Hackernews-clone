@@ -1,8 +1,8 @@
 # Live Hackernews Newsfeed
 
-Implemented with Apollo, React, Prisma, Node, GraphQl, Docker
+Get live news updates regarding the hacker community, and vote on the best posts!
 
-Features: user authentication (login and register), voting
+Implemented with Apollo, React, Prisma, Node, GraphQl, Docker
 
 ## Login and Register
 <figure class="half">
