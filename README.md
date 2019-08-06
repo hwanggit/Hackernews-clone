@@ -2,7 +2,9 @@
 
 Get live news updates regarding the hacker community, and vote on the best posts!
 
-Implemented with Apollo, React, Prisma, Node, GraphQl, Docker
+Front-end: Apollo, React-native
+
+Back-end: Prisma, Node, GraphQl, Docker
 
 ## Login and Register
 <figure class="half">
