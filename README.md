@@ -6,6 +6,8 @@ Front-end: Apollo, React-native, GraphQl
 
 Back-end: Prisma, Node, GraphQl, Docker
 
+COMPATIBLE WITH IOS and ANDROID
+
 ## Login and Register
 <figure class="half">
    <a href="https://github.com/hwanggit/Hackernews-clone/blob/master/Views/Login.png"><img height = "667" width = "375" src="https://github.com/hwanggit/Hackernews-clone/blob/master/Views/Login.png"></a>
