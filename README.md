@@ -6,7 +6,7 @@ Front-end: Apollo, React-native, GraphQl
 
 Back-end: Prisma, Node, GraphQl, Docker
 
-COMPATIBLE WITH IOS and ANDROID
+### COMPATIBLE WITH IOS and ANDROID
 
 ## Login and Register
 <figure class="half">
