@@ -2,7 +2,7 @@
 
 Get live news updates regarding the hacker community, and vote on the best posts!
 
-Front-end: Apollo, React-native
+Front-end: Apollo, React-native, GraphQl
 
 Back-end: Prisma, Node, GraphQl, Docker
 
